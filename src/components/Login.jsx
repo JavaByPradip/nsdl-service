@@ -18,7 +18,7 @@ const Login = ({ onLoginSuccess }) => {
         headers: {
           'Content-Type': 'application/json',
           'User-Agent': 'Web',
-          'Authorization': 'Basic ' + btoa('user:pass'), // Replace with actual Basic Auth token
+          'Authorization': 'Basic ' + btoa('user:pass'),
         },
         body: JSON.stringify(encryptPayload(payload))
       });
