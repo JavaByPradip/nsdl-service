@@ -3,10 +3,10 @@ import { Search, Calendar, ChevronDown, Download, User } from 'lucide-react';
 
 const UserRequestTable = () => {
   const users = Array(8).fill({
-    username: 'john_doe',
-    empId: 'EMP92198',
-    empName: 'Carson Darrin',
-    email: 'johndoe@gmail.com',
+    username: 'Deep',
+    empId: 'ISU316',
+    empName: 'Pradipta Mandal',
+    email: 'pradipta.mandal@iserveu.in',
     updatedDate: '12.05.2025',
     updatedBy: 'Carson Darrin'
   });

@@ -47,7 +47,7 @@ export default function Dashboard() {
             </div>
             <div className="flex items-center gap-2 pl-4 border-l border-gray-200">
               <div className="w-8 h-8 rounded-full bg-orange-200 flex items-center justify-center text-xs font-bold text-orange-700">SB</div>
-              <span className="text-[13px] font-semibold text-gray-700">Stebin Ben</span>
+              <span className="text-[13px] font-semibold text-gray-700">Pradipta Mandal</span>
               <ChevronDown size={14} className="text-gray-400" />
             </div>
           </div>
